@@ -13,7 +13,7 @@ const Home = () => {
               development. Talking about history I had major in Data Science in
               University.
             </p>
-            <img src="img/signature.png" alt="image" />
+            {/* <img src="img/signature.png" alt="image" /> */}
           </div>
           {/* /Main Title */}
         </div>
