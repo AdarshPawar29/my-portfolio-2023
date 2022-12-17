@@ -380,6 +380,20 @@ const About = () => {
                   </div>
                   <div className="progress_item open" data-value={85}>
                     <div className="item_in">
+                      <h3 className="progress_title">R</h3>
+                      <span
+                        className="progress_percent"
+                        style={{ right: "0%" }}
+                      >
+                        {/* 85% */}
+                      </span>
+                      <div className="bg_wrap">
+                        <div className="progress_bg" style={{ width: "0%" }} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="progress_item open" data-value={85}>
+                    <div className="item_in">
                       <h3 className="progress_title">Github</h3>
                       <span
                         className="progress_percent"
